@@ -1,0 +1,7 @@
+SITE CLODOALDO NICOPEL — FORMSUBMIT
+
+Extraia todos os arquivos mantendo a pasta assets. Publique o conteudo da pasta em uma hospedagem de sites estaticos. Nao precisa instalar dependencias ou compilar.
+
+O formulario envia por POST ao FormSubmit para clodoaldomarques444@gmail.com. No primeiro envio, confirme a ativacao pelo e-mail recebido do FormSubmit. Verifique tambem a pasta de spam. Teste o envio a partir do site hospedado.
+
+As validacoes verificam o formato de telefone e e-mail; nao confirmam sua existencia. As fontes externas precisam de internet.
